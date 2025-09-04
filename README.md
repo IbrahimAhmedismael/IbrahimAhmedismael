@@ -28,6 +28,6 @@ Ibrahim Ahmed, an aspiring SOC Analyst and Digital Forensics enthusiast with a s
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=aemmadi&count_private=true&show_icons=true&include_all_commits=true)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=harshkumarkhatri&count_private=true&show_icons=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=IbrahimAhmedismael&count_private=true&show_icons=true&include_all_commits=true)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=IbrahimAhmedismael.IbrahimAhmedismael)
