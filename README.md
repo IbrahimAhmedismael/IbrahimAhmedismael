@@ -26,7 +26,7 @@ Ibrahim Ahmed, an aspiring SOC Analyst and Digital Forensics enthusiast with a s
 ![Nessus](https://img.shields.io/badge/-Nessus-00979D?style=flat-square)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=aemmadi&count_private=true&show_icons=true&include_all_commits=true)
+
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=IbrahimAhmedismael&count_private=true&show_icons=true&include_all_commits=true)
 
