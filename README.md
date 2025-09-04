@@ -3,11 +3,10 @@
 
 Ibrahim Ahmed, an aspiring SOC Analyst and Digital Forensics enthusiast with a solid foundation in networking, cybersecurity, and incident response. Skilled in Linux and security tools, with growing expertise in log analysis, threat detection, and forensic investigation. Passionate about applying knowledge to real-world security challenges and eager to gain hands-on experience in monitoring, analyzing, and responding to security incidents to strengthen organizational defense,Feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)]([https://www.linkedin.com/in/anirudhemmadi/](https://www.linkedin.com/in/ibrahim-ahmed-280050249/))
-[![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://instagram.com/kanna6501)
-[![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.youtube.com/c/koolkanna)
-[![Medium Badge](https://img.shields.io/badge/-@aemmadi-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@aemmadi/)]([https://medium.com/@aemmadi](https://medium.com/@ibrahimahmedismael745))
-[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:kanna6501@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Ibrahim%20Ahmed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ibrahim-ahmed-280050249/)](https://www.linkedin.com/in/ibrahim-ahmed-280050249/)
+[![Medium Badge](https://img.shields.io/badge/-@ibrahimahmedismael745-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@ibrahimahmedismael745)](https://medium.com/@ibrahimahmedismael745)
+[![Gmail Badge](https://img.shields.io/badge/-ibrahimahmedismael745@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ibrahimahmedismael745@gmail.com)](mailto:ibrahimahmedismael745@gmail.com)
+
 
 ## ⚡ Technologies
 
